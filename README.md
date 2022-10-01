@@ -12,12 +12,15 @@ S.No. | Content/Topic | Additional Comment
 ## Index for System Design 
 
 ### Low Level Design
+
 - OOPS
 - Design Patterns
-UML Diagrams
-Schema Design
-Design Problems
-Machine Coding
+- UML Diagrams
+- Schema Design
+- Design Problems
+- Machine Coding
+
+
 ### High Level Design
 ### 
 
