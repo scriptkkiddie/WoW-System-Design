@@ -9,6 +9,11 @@ WoW-System-Design is an all-in-one repository curated with the most relevant, up
 S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
+## Shortcuts
+
+Topic | Description
+--- | ---
+
 ## Index for System Design 
 
 ### Low Level Design
