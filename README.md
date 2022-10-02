@@ -29,6 +29,16 @@ Topic | Description
 ### High Level Design
 ### 
 
+- Architecture Design
+- Distributed Systems
+- Load Balancing
+Consistent Hashing
+Caching
+Transactions
+SQL vs NoSQL
+Designing Real Life Systems
+
+
 
 ## References
 
