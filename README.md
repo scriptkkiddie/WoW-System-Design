@@ -32,12 +32,51 @@ Topic | Description
 - Architecture Design
 - Distributed Systems
 - Load Balancing
-Consistent Hashing
-Caching
-Transactions
-SQL vs NoSQL
-Designing Real Life Systems
+- Consistent Hashing
+- Caching
+- Transactions
+- SQL vs NoSQL
+- Designing Real Life Systems
 
+### Design Pattern
+
+### Web Architecture
+
+### Concurrency 
+
+### Processes
+
+### Threads 
+
+### Scalibility 
+
+### High Availability
+
+### Load Balancing
+
+### Monolith & Microservices
+
+### Micro Frontends
+
+### Database
+
+### Caching
+
+### Message Queue
+
+### Kafka
+
+### Steam Processing
+
+### Dynamo
+
+### Cassandra
+
+### GFS
+
+### HDFS
+
+### BigTable
 
 
 ## References
