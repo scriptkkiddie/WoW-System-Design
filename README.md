@@ -83,10 +83,12 @@ Topic | Description
 
 - https://medium.com/airbnb-engineering (Airbnb)
 - https://airbnb.io/ (Airbnb)
+- https://www.algolia.com/blog/engineering/ (Algolia)
 - https://blog.asana.com/category/eng/ (Asana)
 - https://blog.developer.atlassian.com/ (Atlassian)
 - https://www.docker.com/blog/category/engineering/ (Docker)
 - https://dropbox.tech/ (Dropbox)
+- https://engineering.fb.com/ (Facebook)
 - https://github.blog/category/engineering/ (GitHub)
 - https://medium.com/groupon-eng (Groupon)
 - https://blog.hotstar.com/ (Hotstar)
