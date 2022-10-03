@@ -94,6 +94,7 @@ Topic | Description
 - https://blog.hotstar.com/ (Hotstar)
 - https://tech.instacart.com/ (Instacart)
 - https://instagram-engineering.com/ (Instagram)
+- https://www.intel.com/content/www/us/en/developer/library.html?s=Newest&f:@stm_10355_en=%5BInformation%20Technology%20(IT)%5D (Intel)
 - https://engineering.linkedin.com/blog (LinkedIn)
 - https://mixpanel.com/blog/ (Mixpanel)
 - https://netflixtechblog.com/ (Netflix)
