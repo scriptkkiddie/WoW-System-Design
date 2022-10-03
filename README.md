@@ -81,7 +81,35 @@ Topic | Description
 
 ## References
 
-- xyz
+- https://medium.com/airbnb-engineering (Airbnb)
+- https://airbnb.io/ (Airbnb)
+- https://blog.asana.com/category/eng/ (Asana)
+- https://blog.developer.atlassian.com/ (Atlassian)
+- https://www.docker.com/blog/category/engineering/ (Docker)
+- https://dropbox.tech/ (Dropbox)
+- https://github.blog/category/engineering/ (GitHub)
+- https://medium.com/groupon-eng (Groupon)
+- https://blog.hotstar.com/ (Hotstar)
+- https://tech.instacart.com/ (Instacart)
+- https://instagram-engineering.com/ (Instagram)
+- https://engineering.linkedin.com/blog (LinkedIn)
+- https://mixpanel.com/blog/ (Mixpanel)
+- https://netflixtechblog.com/ (Netflix)
+- https://engblog.nextdoor.com/ (Nextdoor)
+- https://medium.com/paypal-tech (PayPal)
+- https://quoraengineering.quora.com/ (Quora)
+- https://www.redditinc.com/blog/topic/technology (Reddit)
+- https://shopify.engineering/ (Shopify)
+- https://slack.engineering/ (Slack)
+- https://developers.soundcloud.com/blog/ (Soundcloud)
+- https://engineering.atspotify.com/ (Spotify)
+- https://stripe.com/blog/engineering (Stripe)
+- https://medium.com/thumbtack-engineering (Thumbtack)
+- https://blog.twitter.com/engineering/en_us (Twitter)
+- https://www.uber.com/en-IN/blog/thiruvananthapuram/engineering/ (Uber)
+- https://yahooeng.tumblr.com/ (Yahoo)
+- https://engineeringblog.yelp.com/ (Yelp)
+- https://medium.com/zoom-developer-blog (Zoom)
 
 ## Author(s)
 
