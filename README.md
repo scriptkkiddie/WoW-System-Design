@@ -122,6 +122,7 @@ Topic | Description
 - https://engblog.nextdoor.com/ (Nextdoor)
 - https://tech.nextroll.com/blog/ (NextRoll)
 - https://medium.com/paypal-tech (PayPal)
+- https://paytm.com/blog/engineering/ (Paytm)
 - https://medium.com/pipedrive-engineering/engineering/home (Pipedrive)
 - https://quoraengineering.quora.com/ (Quora)
 - https://www.redditinc.com/blog/topic/technology (Reddit)
